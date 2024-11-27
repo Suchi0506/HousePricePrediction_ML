@@ -14,11 +14,12 @@ This project is to predict the housing price based on certain factors like house
 3. Applied one hot encoding, Standardization, Cheked for multi collinearity, applied VIF, PCA
 4. The following models are covered in this:
    a) Linear Regression
+   
    b) Decision Tree Regressor
    c) Support Vector Regressor (SVR)
    d) K-Nearest Neighbors (KNN) Regressor
    e) Random Forest Regressor
    f) Gradient Boosting Regressor
    Also each model are evaluated using R², RMSE, MSE, MAE metrics.
-5. Checked for overfitting and Regularization techniques are applied.
+6. Checked for overfitting and Regularization techniques are applied.
 
